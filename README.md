@@ -20,7 +20,6 @@ Create a conda environment and install the dependencies:
 conda create -n fisher-merge python=3.10 -y
 conda activate fisher-merge
 cd path/to/fisher_merge
-python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
 ```
 
