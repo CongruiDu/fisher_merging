@@ -42,3 +42,5 @@ Run only selected tasks:
 ```bash
 bash run_glue_tasks.sh rte sst2
 ```
+
+Results for each dataset are stored in the corresponding log file under runs/paper_avaliable/<task>/logs/eval.log.
